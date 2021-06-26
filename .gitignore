@@ -29,6 +29,7 @@
 .packages
 .pub-cache/
 .pub/
+lib/apikey.dart
 /build/
 
 # Web related
